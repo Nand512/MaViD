@@ -1,0 +1,3 @@
+# MaViD, short for (LED) Matrix Video Display, is exactly that: an array of LED's used as a video display. It is hooked to a (insert FPGA board here) and also features audio output.
+<br>
+I started this on January 2nd, 2025. The original idea was to create a chip that would just output video and audio for "Bad Apple!", a popular online video, as people try to see the different weird and quirky ways they can run the popular video. After realizing chip design was far too expensive and would take a very long time, I figured FPGA design would suit my needs better. And with that change I also decided to make it usable for any video, not just a hard-coded "Bad Apple!"
